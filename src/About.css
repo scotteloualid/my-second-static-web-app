@@ -1,20 +1,14 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 803px;
+  min-height: 811px;
 }
 
 .u-section-1 .u-text-1 {
-  font-weight: 700;
-  font-size: 3rem;
-  margin: 57px 0 0;
-}
-
-.u-section-1 .u-text-2 {
   line-height: 1.6;
   font-size: 1.25rem;
   text-transform: none;
   font-weight: 300;
   width: 663px;
-  margin: 12px auto 0;
+  margin: 0 auto;
 }
 
 .u-section-1 .u-btn-1 {
@@ -23,12 +17,12 @@
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin-top: 20px;
-  margin-bottom: 0;
+  margin-top: 15px;
+  margin-bottom: 60px;
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 566px;
+  min-height: 564px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -36,7 +30,7 @@
 }
 
 .u-section-1 .u-image-1 {
-  min-height: 566px;
+  min-height: 564px;
   background-image: url("images/Leanne.jpg");
   background-position: 50% 50%;
 }
@@ -46,7 +40,7 @@
 }
 
 .u-section-1 .u-layout-cell-3 {
-  min-height: 566px;
+  min-height: 564px;
 }
 
 .u-section-1 .u-container-layout-3 {
@@ -55,37 +49,37 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 704px;
+    min-height: 712px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 467px;
+    min-height: 465px;
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 467px;
+    min-height: 465px;
   }
 
   .u-section-1 .u-layout-cell-3 {
-    min-height: 467px;
+    min-height: 465px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 595px;
+    min-height: 603px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 358px;
+    min-height: 100px;
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 358px;
+    min-height: 356px;
   }
 
   .u-section-1 .u-layout-cell-3 {
-    min-height: 358px;
+    min-height: 356px;
   }
 }
 
@@ -94,17 +88,16 @@
     min-height: 1143px;
   }
 
-  .u-section-1 .u-text-2 {
+  .u-section-1 .u-text-1 {
     width: 540px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 806px;
     order: 0;
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 806px;
+    min-height: 801px;
     order: 2;
   }
 
@@ -114,7 +107,7 @@
   }
 
   .u-section-1 .u-layout-cell-3 {
-    min-height: 806px;
+    min-height: 801px;
     order: 1;
   }
 }
@@ -125,22 +118,14 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 1.875rem;
-  }
-
-  .u-section-1 .u-text-2 {
     width: 340px;
   }
 
-  .u-section-1 .u-layout-cell-1 {
-    min-height: 507px;
-  }
-
   .u-section-1 .u-image-1 {
-    min-height: 507px;
+    min-height: 504px;
   }
 
   .u-section-1 .u-layout-cell-3 {
-    min-height: 507px;
+    min-height: 504px;
   }
 }

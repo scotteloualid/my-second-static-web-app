@@ -37884,7 +37884,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 112px;
+  min-height: 156px;
 }
 
 .u-header .u-image-1 {
@@ -37899,28 +37899,45 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -33px 0 23px auto;
+  margin: -60px 0 0 auto;
 }
 
 .u-header .u-nav-1 {
   font-size: 1rem;
+  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
   font-size: 1.25rem;
 }
+
+.u-header .u-text-1 {
+  font-weight: 700;
+  font-size: 1.875rem;
+  width: 808px;
+  margin: 26px auto 35px;
+}
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
     width: auto;
   }
-
-  .u-header .u-nav-1 {
-    letter-spacing: normal;
+}
+@media (max-width: 991px) {
+  .u-header .u-text-1 {
+    width: 720px;
   }
 }
-
-
-
+@media (max-width: 767px) {
+  .u-header .u-text-1 {
+    width: 540px;
+  }
+}
+@media (max-width: 575px) {
+  .u-header .u-text-1 {
+    font-size: 1.5rem;
+    width: 340px;
+  }
+}
  .u-footer {
   background-image: none;
 }
